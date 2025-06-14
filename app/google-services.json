@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "851995802916",
+    "project_id": "studentrecordapp-400e4",
+    "storage_bucket": "studentrecordapp-400e4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:851995802916:android:d8df2689722cd5467447b1",
+        "android_client_info": {
+          "package_name": "com.example.examtask.examtask22l6695"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYz0KZRczx5Uc4VFw1_632OyUhXyp9C74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
